@@ -1,0 +1,9 @@
+G:\RealPaul\TestClient\TestClient\bin\Debug\TestClient.exe.config
+G:\RealPaul\TestClient\TestClient\bin\Debug\TestClient.exe
+G:\RealPaul\TestClient\TestClient\bin\Debug\TestClient.pdb
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.csprojResolveAssemblyReference.cache
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.Form1.resources
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.Properties.Resources.resources
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.csproj.GenerateResource.Cache
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.exe
+G:\RealPaul\TestClient\TestClient\obj\Debug\TestClient.pdb
